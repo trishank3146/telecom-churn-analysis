@@ -1,0 +1,12 @@
+Churn risk model: Logistic Regression (class_weight=balanced)
+Train customers: 5282  Test customers: 1761
+ROC-AUC: 0.862
+
+              precision    recall  f1-score   support
+
+      Stayed       0.93      0.75      0.83      1275
+     Churned       0.56      0.84      0.67       486
+
+    accuracy                           0.77      1761
+   macro avg       0.74      0.80      0.75      1761
+weighted avg       0.82      0.77      0.78      1761

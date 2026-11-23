@@ -1,0 +1,5 @@
+ChargeBand,customers,churn_rate_pct,monthly_revenue_lost
+Low (<35),1576,4.89,1716.9
+Medium (35-70),1559,24.12,23127.57
+High (70-90),2355,34.65,65974.32
+Premium (90+),1553,43.34,65596.97

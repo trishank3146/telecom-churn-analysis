@@ -1,0 +1,11 @@
+Contract,InternetService,TenureGroup,customers,churn_rate_pct,monthly_revenue_lost,risk_rank
+Month-to-month,Fiber optic,0-12 months,625,75.2,42449.26,1
+Month-to-month,Fiber optic,13-24 months,491,63.54,28198.46,2
+Month-to-month,Fiber optic,25-48 months,501,56.29,25616.39,3
+Month-to-month,Fiber optic,49-72 months,66,56.06,3323.56,4
+Month-to-month,DSL,0-12 months,498,49.6,16400.14,5
+Month-to-month,DSL,25-48 months,420,34.76,9788.03,6
+Month-to-month,DSL,13-24 months,384,27.6,7051.93,7
+Month-to-month,DSL,49-72 months,55,25.45,955.9,8
+One year,Fiber optic,25-48 months,313,24.92,6907.81,9
+One year,Fiber optic,13-24 months,70,24.29,1524.24,10

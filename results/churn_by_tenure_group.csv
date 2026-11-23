@@ -1,0 +1,5 @@
+TenureGroup,customers,churned,churn_rate_pct
+0-12 months,1530,772,50.46
+13-24 months,1313,460,35.03
+25-48 months,2416,582,24.09
+49-72 months,1784,128,7.17
